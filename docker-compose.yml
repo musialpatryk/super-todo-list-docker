@@ -1,0 +1,11 @@
+version: '3.3'
+services:
+  front:
+    build: ./super-todo-list-front
+    ports:
+      - "80:80"
+  api:
+    build: ./super-todo-list-api
+    ports:
+      - "5000:443"
+      - "5001:80"
