@@ -1,4 +1,4 @@
-# super-todo-list-docker
+# SuperTodoListDocker
 
 ##  Uruchomienie projektu od zera:
 
